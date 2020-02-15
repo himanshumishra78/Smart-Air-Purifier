@@ -11,4 +11,9 @@ Servo Motor, platform and wheels help the filter to move from one place to anoth
 2. Movable Platform of purifier system is almost ready.
 3. Testing of filtration chamber is going on....
 
+Next
+4. Animation prototype of model is done.
+5.Moving Platform is done
+6.Filtration chamber testing is done.
+
 
