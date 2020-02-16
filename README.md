@@ -13,5 +13,10 @@ Servo Motor, platform and wheels help the filter to move from one place to anoth
 4. Animation prototype of model is done.
 5. Moving Platform is done
 6. Filtration chamber testing is done.
+7. Chamber Ready
+8. Filter Ready
+9. AlL connnection done
+
+
 
 
