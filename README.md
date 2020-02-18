@@ -18,7 +18,7 @@ Servo Motor, platform and wheels help the filter to move from one place to anoth
 9. AlL connnection done
 10. Testing Start 
 11. Exhausting fan Start working.
-
+12.completed.......
 
 
 
